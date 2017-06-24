@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+h1 {
+  text-align: center;
+  font: bold 75px Arial;
+  }
+  p {
+    font: bold 30px Arial;
+    text-align: left;
+  }
+
+
+  form {
+    text-align: left;
+    font-size: 30px;
+    width: 40%;
+        padding: 15px 15px;
+        margin: 2px 0;
+        box-sizing: border-box;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  }
