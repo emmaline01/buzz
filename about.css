@@ -1,0 +1,19 @@
+body {
+  color: black;
+  font-family: "Arial";
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+h2 {
+  color: maroon;
+}
+
+#sideThing {
+  text-align: right;
+  color: maroon;
+  float: left;
+  font-size: 50;
+}
